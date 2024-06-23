@@ -1,4 +1,7 @@
-
+<div class="image-container">
+    <img src="https://i.imghippo.com/files/EON5p1719135704.jpg" align="center">
+  </div>
+  
 ### Hi all there,  
 ### <div align="center">I am B.Raghu Vamsi</div>  
   
