@@ -9,10 +9,8 @@
 - Student at IIIT Dharwad  
   
 
-- Machine Learning Enthusiast | Deep Learning Explorer | MLOps Learner  
+- Machine Learning Enthusiast   
   
-
-- LeetCode Coder  
   
 
 - [Reach me out here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)  
